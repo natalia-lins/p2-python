@@ -1,4 +1,4 @@
-# Escreva um programa que calcule e imprima a área e o perímetro de um
+# 4. Escreva um programa que calcule e imprima a área e o perímetro de um
 # retângulo com base na largura e altura fornecidas.
 
 base, largura = 3, 9

@@ -1,4 +1,4 @@
-# Escreva um programa que verifique se um número é par ou ímpar usando o
+# 6. Escreva um programa que verifique se um número é par ou ímpar usando o
 # operador módulo (%).
 
 num = 3
